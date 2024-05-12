@@ -1,13 +1,9 @@
 # DarkSmiles-Server
 
-DarkSmiles-Server - Data Store
+## About
+Welcome to DarkSmiles-Server! This repository serves as a data store for a Discord server and is also utilized in DarkSmiles Apps. It will soon be integrated into Ad4Reward as well.
 
-# About
-DarkSmiles-Server is repo with data about discord server.\n
-This repo is used in DarkSmiles Apps too.\n
-Soon be used in Ad4Reward\n
-
-# Credits
-Discord owner - @hyp3rl3ss_\n
-Co-Owner - @danxvo\n
-Server - @danxvo\n
+## Credits
+- **Discord Owner**: [@hyp3rl3ss_](https://github.com/hyp3rl3ss)
+- **Co-Owner**: [@danxvo](https://github.com/danxvo)
+- **Server**: [@danxvo](https://github.com/danxvo)
